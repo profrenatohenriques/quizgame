@@ -1,0 +1,8 @@
+# Ignora os ficheiros Word
+*.docx
+
+# Ignora os ficheiros ZIP
+*.zip
+
+# Ignora as imagens
+*.jpg
