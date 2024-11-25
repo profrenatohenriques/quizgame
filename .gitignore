@@ -6,3 +6,22 @@
 
 # Ignora as imagens
 *.jpg
+
+# Ignorar ficheiros temporários do sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar ficheiros gerados por compiladores
+*.class
+*.o
+*.exe
+
+# Ignorar pastas de dependências
+node_modules/
+vendor/
+
+# Ignorar ficheiros de logs
+*.log
+
+# Ignorar ficheiros de configuração locais
+.env
